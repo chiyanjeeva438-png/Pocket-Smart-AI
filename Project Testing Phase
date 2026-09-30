@@ -1,0 +1,16 @@
+Testing is performed to make sure the application works correctly.
+
+Test Cases
+Test	Expected Result
+Select Home Decor	Home Decor options should appear
+Select Event Planning	Event Planning options should appear
+Select Jewelry Shopping	Jewelry options should appear
+Enter ₹50,000 budget	Recommendations should be generated
+Enter budget below ₹500	Error message should appear
+Select Best Quality	Higher-rated items should be considered
+Select Lowest Price	Lower-priced suitable items should be considered
+Change recommended item	Budget should be recalculated
+Budget exceeds requirement	Remaining balance should be shown
+Budget is insufficient	System should warn the user
+
+The application validates that the budget must be at least ₹500.
