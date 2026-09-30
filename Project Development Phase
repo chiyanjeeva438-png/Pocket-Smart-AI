@@ -1,0 +1,36 @@
+In this phase, the actual application is developed.
+
+HTML Development
+
+HTML is used to create the webpage structure, including:
+
+Category selection
+Budget input
+Priority selection
+Recommendation button
+Recommendation area
+Money-saving tips section
+CSS Development
+
+CSS is used to:
+
+Design cards and panels.
+Set fonts and spacing.
+Create responsive layouts.
+Style buttons and input fields.
+Display the budget bar.
+JavaScript Development
+
+JavaScript performs the main application functions.
+
+The recommendation system:
+
+Reads the user's category.
+Reads the budget.
+Reads the selected priority.
+Calculates the available budget.
+Filters affordable items.
+Scores the available items.
+Selects a suitable recommendation.
+Calculates remaining money.
+Displays the result.
