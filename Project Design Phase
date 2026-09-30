@@ -1,0 +1,38 @@
+In this phase, the structure and appearance of the application are designed.
+
+User Interface Design
+
+The project contains:
+
+Project title – PocketSmart AI
+Category selection
+Budget input
+Priority selection
+Recommendation button
+Budget summary
+Recommendation list
+Money-saving tips
+System Design
+
+The system is divided into three major parts:
+
+Input → Processing → Output
+
+Input:
+
+Category
+Budget
+Priority
+
+Processing:
+
+Budget allocation
+Product filtering
+Recommendation scoring
+
+Output:
+
+Recommended items
+Planned spending
+Remaining budget
+Money-saving tips
